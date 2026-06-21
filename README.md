@@ -1,2 +1,14 @@
 # basketballmk-guide
-HTML page archive and documentation
+
+页面文件整理目录
+
+本仓库记录页面发布结果，页面文件会按任务追加保存。
+
+## 结构说明
+
+- 根目录用于存放发布页面
+- 仓库说明用于辅助识别用途
+
+## 注意事项
+
+README 仅说明仓库用途，不替代具体页面内容。
